@@ -11,19 +11,19 @@ C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/UNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/SZI/40725092
+C:/Users/user/Desktop/WTF/SZI/40725092
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-3639
-Successfully changed project path to: C:/UNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/SZI/40725092
-C:/UNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/SZI/40725092
+1568
+Successfully changed project path to: C:/Users/user/Desktop/WTF/SZI/40725092
+C:/Users/user/Desktop/WTF/SZI/40725092
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 43.80 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 40.65 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.25f1 (9b9180224418)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/UNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN/SZI/40725092/Assets
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/WTF/SZI/40725092/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -35,92 +35,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56576
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56944
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004147 seconds.
+Registered in 0.004288 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 58.09 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 36.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.557 seconds
+- Completed reload, in  0.506 seconds
 Domain Reload Profiling:
-	ReloadAssembly (557ms)
-		BeginReloadAssembly (66ms)
+	ReloadAssembly (506ms)
+		BeginReloadAssembly (60ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (417ms)
-			LoadAssemblies (61ms)
+		EndReloadAssembly (373ms)
+			LoadAssemblies (57ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (128ms)
+			SetupTypeCache (122ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (168ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (137ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (58ms)
+				RefreshPlugins (37ms)
 				BeforeProcessingInitializeOnLoad (7ms)
-				ProcessInitializeOnLoadAttributes (72ms)
-				ProcessInitializeOnLoadMethodAttributes (25ms)
+				ProcessInitializeOnLoadAttributes (66ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006049 seconds.
+Registered in 0.006029 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 38.00 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 35.44 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.037 seconds
+- Completed reload, in  0.964 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1038ms)
-		BeginReloadAssembly (136ms)
+	ReloadAssembly (965ms)
+		BeginReloadAssembly (131ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (837ms)
-			LoadAssemblies (100ms)
+		EndReloadAssembly (772ms)
+			LoadAssemblies (95ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (258ms)
+			SetupTypeCache (245ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (39ms)
-			SetupLoadedEditorAssemblies (336ms)
+			SetupLoadedEditorAssemblies (298ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (38ms)
-				BeforeProcessingInitializeOnLoad (87ms)
-				ProcessInitializeOnLoadAttributes (178ms)
-				ProcessInitializeOnLoadMethodAttributes (15ms)
-				AfterProcessingInitializeOnLoad (14ms)
+				RefreshPlugins (35ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (158ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (12ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2194 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 96.4 MB.
-System memory in use after: 96.5 MB.
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
 
 Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2627.
-Total: 2.440100 ms (FindLiveObjects: 0.153800 ms CreateObjectMapping: 0.070100 ms MarkObjects: 2.165900 ms  DeleteObjects: 0.049600 ms)
+Total: 2.414400 ms (FindLiveObjects: 0.137800 ms CreateObjectMapping: 0.065000 ms MarkObjects: 2.163200 ms  DeleteObjects: 0.047700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -134,33 +134,153 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Bot Wheel/hot wheels flatten.aseprite
-  artifactKey: Guid(fa94103614139ae41bb681bd3b874a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bot Wheel/hot wheels flatten.aseprite using Guid(fa94103614139ae41bb681bd3b874a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436bd0bb34b3bceee1d241825ce58611') in 0.021187 seconds 
-  Import took 0.023889 seconds .
+  path: Assets/WWWWWWW/WWWW.unity
+  artifactKey: Guid(d374bddb5a457634f816eced1608937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WWWWWWW/WWWW.unity using Guid(d374bddb5a457634f816eced1608937e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44da21cb22a429e496f32dbf375dc1f0') in 0.009541 seconds 
+  Import took 0.011926 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000171 seconds.
+  Time since last request: 0.000220 seconds.
+  path: Assets/WWWWWWW
+  artifactKey: Guid(2e63e18bc53f38745aee39556eac536a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WWWWWWW using Guid(2e63e18bc53f38745aee39556eac536a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4c60831df872b74ddf2bf11b8512400') in 0.001461 seconds 
+  Import took 0.003476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 414.134929 seconds.
+  path: Assets/WWWWWWW/FFFFFFFNew Palette.prefab
+  artifactKey: Guid(e1e837d07c183c440849fbe2fdfd9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/WWWWWWW/FFFFFFFNew Palette.prefab using Guid(e1e837d07c183c440849fbe2fdfd9963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bcdc72e5f075d05c1e009ec052798ea') in 0.095963 seconds 
+  Import took 0.098835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 384.431065 seconds.
+  path: Assets/Bot Wheel/charge.png
+  artifactKey: Guid(0f571ed85e89fb7408a32b9b43bf28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/charge.png using Guid(0f571ed85e89fb7408a32b9b43bf28aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bffdd4a70eb2c9e38e44e3e49cb3c3fa') in 0.075813 seconds 
+  Import took 0.078614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Bot Wheel/wake.png
+  artifactKey: Guid(5a6e60710c648ec4f9178f7ec84d7d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/wake.png using Guid(5a6e60710c648ec4f9178f7ec84d7d50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e85ff37b5340057510ffa14c323785') in 0.013344 seconds 
+  Import took 0.015915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
   path: Assets/Bot Wheel/hot wheels small.gif
   artifactKey: Guid(d6d31e00a5340c642b14003bca890d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bot Wheel/hot wheels small.gif using Guid(d6d31e00a5340c642b14003bca890d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5adb798768714a818cae48838e55999') in 0.056871 seconds 
-  Import took 0.059316 seconds .
+Start importing Assets/Bot Wheel/hot wheels small.gif using Guid(d6d31e00a5340c642b14003bca890d2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '943a4b6b0636bdabd40acede3d3f4f47') in 0.022138 seconds 
+  Import took 0.024644 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000224 seconds.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Bot Wheel/death.png
+  artifactKey: Guid(3e48763a41ebfbb4c8632d5f2393208c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/death.png using Guid(3e48763a41ebfbb4c8632d5f2393208c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb5c274fe58883f500f9643f0cd812f') in 0.019984 seconds 
+  Import took 0.022494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Bot Wheel/GAS dash FX.png
+  artifactKey: Guid(6abbc01b7eb6e944497f14302e23ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/GAS dash FX.png using Guid(6abbc01b7eb6e944497f14302e23ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5b96e4e851f06701b6bf6b88d5e2e16') in 0.011941 seconds 
+  Import took 0.014396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Bot Wheel/move FX.png
+  artifactKey: Guid(b96b2354402f74444b0637c078a8a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/move FX.png using Guid(b96b2354402f74444b0637c078a8a77c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1244d613d55cbfffd1d289daa532d19b') in 0.012780 seconds 
+  Import took 0.015236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
   path: Assets/Bot Wheel/move with FX.png
   artifactKey: Guid(1deda993d8b9e9744aa8d26304099fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bot Wheel/move with FX.png using Guid(1deda993d8b9e9744aa8d26304099fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84dd68ec31466811648424d8370d4aaf') in 0.012316 seconds 
-  Import took 0.015044 seconds .
+Start importing Assets/Bot Wheel/move with FX.png using Guid(1deda993d8b9e9744aa8d26304099fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c2ce9a5b5aa38c4808e20062e6c88a3') in 0.013985 seconds 
+  Import took 0.016484 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000315 seconds.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Bot Wheel/GAS dash with FX.png
+  artifactKey: Guid(30fc8d9cd81c1be43af1e4dfa1a38abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/GAS dash with FX.png using Guid(30fc8d9cd81c1be43af1e4dfa1a38abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1202bfa8a891dd73d8e2f36e83a28629') in 0.017674 seconds 
+  Import took 0.020087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Bot Wheel/shoot FX.png
+  artifactKey: Guid(605d043fab1982149824239aa9cc71eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/shoot FX.png using Guid(605d043fab1982149824239aa9cc71eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f38e9b2fdf885b67c92ea95d60fe52') in 0.011788 seconds 
+  Import took 0.014235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Bot Wheel/damaged.png
+  artifactKey: Guid(25c0476725d13f849b36d5cf448bb846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/damaged.png using Guid(25c0476725d13f849b36d5cf448bb846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b327865c736f72f10bb70134623df80') in 0.012288 seconds 
+  Import took 0.014785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Bot Wheel/move without FX.png
+  artifactKey: Guid(222567bd3c0916d4e8f7295d8a17850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/move without FX.png using Guid(222567bd3c0916d4e8f7295d8a17850d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75f0b28f7102135de1f07f26ed31822') in 0.012563 seconds 
+  Import took 0.015183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000122 seconds.
+  path: Assets/Bot Wheel/shoot without FX.png
+  artifactKey: Guid(509dfb5e75358c94a88d919130171e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/shoot without FX.png using Guid(509dfb5e75358c94a88d919130171e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f520560f1bfb47393ab49976f33bc7') in 0.014011 seconds 
+  Import took 0.016454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Bot Wheel/static idle.png
+  artifactKey: Guid(44b19df6aa60f954b99c53a7209285c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/static idle.png using Guid(44b19df6aa60f954b99c53a7209285c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d2089ef42e9be61d51ddb7f06a2276b') in 0.007898 seconds 
+  Import took 0.010542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
   path: Assets/Bot Wheel/hot wheels flatten.gif
   artifactKey: Guid(1d1302525d114d147b9f2864362b4297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Bot Wheel/hot wheels flatten.gif using Guid(1d1302525d114d147b9f2864362b4297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93b8682b6acf0cc118c339bc091bc582') in 0.012483 seconds 
-  Import took 0.016282 seconds .
+Start importing Assets/Bot Wheel/hot wheels flatten.gif using Guid(1d1302525d114d147b9f2864362b4297) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e3a12599d49501d85be93c2899e81f') in 0.011758 seconds 
+  Import took 0.014416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Bot Wheel/shoot with FX.png
+  artifactKey: Guid(549b8e7c81beed043ab2606a625b3755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/shoot with FX.png using Guid(549b8e7c81beed043ab2606a625b3755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c911a6a1aa7553e7a99b81ea8f5e77b9') in 0.008532 seconds 
+  Import took 0.011250 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 273.008838 seconds.
+  path: Assets/Bot Wheel/shoot FX.asset
+  artifactKey: Guid(ee940293a030154448f8a85e14f6982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bot Wheel/shoot FX.asset using Guid(ee940293a030154448f8a85e14f6982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6633d261acfd8e5954980fb849945087') in 0.016693 seconds 
+  Import took 0.019461 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
